@@ -1,0 +1,2 @@
+# Ai-studio-.i
+Professional AI Video Studio - Create scripts, prompts, videos and creative AI content.
